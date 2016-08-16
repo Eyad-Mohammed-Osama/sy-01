@@ -15,7 +15,7 @@ If You Want To Encode:
 <li>Include The Following Line In The &lt;head&gt; Area:
 <br>
 
-&lt;script src="https://github.com/Eyad-Syrialover/sy-01/raw/master/1.0/sy-01.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://github.com/Eyad-Syrialover/sy-01/raw/master/1.0/sy-01.min.js">&lt;/script&gt;
 </li>
 <li>
 Add A data-sy-01="true" Attribute To &lt;div&gt; Element,Or Any Element.
@@ -33,7 +33,7 @@ If You Want To Decode:
 <li>Include The Following Line In The &lt;head&gt; Area:
 <br>
 
-&lt;script src="https://github.com/Eyad-Syrialover/sy-01/raw/master/1.0/sy-01.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://github.com/Eyad-Syrialover/sy-01/raw/master/1.0/sy-01.min.js">&lt;/script&gt;
 </li>
 <li>
 Add A data-sy-01-decode="true" Attribute To &lt;div&gt; Element,Or Any Element.
